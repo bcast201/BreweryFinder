@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'The Slug and Lion';
+  src: local('MyFont'), url(./fonts/TheSlugAndLion-dLv7.ttf) format('woff');
+}
+
+.App{
+  background-color:#444444;
+  position:absolute;
+  left:0;
+  right:0;
+}
+
+.mainContainer{
+  font-family: sans-serif;
+  text-align: center;
+  background-image: url('./img/background.jpg');
+  background-repeat: no-repeat;
+  height: 100vh;
+  position: relative;
+  
+}
+
+
+.inputFieldContainer {
+  height: 600px;
+  width: 800px;
+  position: absolute;
+  top:50%;
+  left: 50%;
+  background-color: rgb(68, 68, 68,.8);
+  transform: translate(-50%, -50%);
+}
+
+.inputFieldText{
+  top: 35%;
+  position: relative;
+}
+
+
+.smaller-input {
+  font-size: 14px;
+  padding: 2px 5px;
+  display: block;
+  margin : 0 auto;
+}
+
+.resultsContainer{
+  background-color:#444444;
+  font-family:'The Slug and Lion';
+}
+
+.textColor{
+  color: #bebebe;
+}
+
+.helper{
+  color: #bebebe;
+  padding: 25px
+}
+
+.titleText{
+  color: #bebebe;
+  font-size: 70px;
+  font-family:'The Slug and Lion';
+}
+
+.card-style {
+  background-color: #bebebe;
+  font-size: 50px;
+
+}
+
+.link-style{
+  color:inherit 
+}
+
+.subtitle-style{
+  font-size: 25px;
+}
+
+.address-style{
+  font-size: 30px;
+}
