@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/breweryFinder/static/css/main.6c0ce548.chunk.css",
+    "main.js": "/breweryFinder/static/js/main.255bfa58.chunk.js",
+    "main.js.map": "/breweryFinder/static/js/main.255bfa58.chunk.js.map",
+    "runtime-main.js": "/breweryFinder/static/js/runtime-main.8321b07e.js",
+    "runtime-main.js.map": "/breweryFinder/static/js/runtime-main.8321b07e.js.map",
+    "static/css/2.413a4a32.chunk.css": "/breweryFinder/static/css/2.413a4a32.chunk.css",
+    "static/js/2.0e14c48a.chunk.js": "/breweryFinder/static/js/2.0e14c48a.chunk.js",
+    "static/js/2.0e14c48a.chunk.js.map": "/breweryFinder/static/js/2.0e14c48a.chunk.js.map",
+    "index.html": "/breweryFinder/index.html",
+    "precache-manifest.382dd522ffc5fe77cf255af7cee0d7b6.js": "/breweryFinder/precache-manifest.382dd522ffc5fe77cf255af7cee0d7b6.js",
+    "service-worker.js": "/breweryFinder/service-worker.js",
+    "static/css/2.413a4a32.chunk.css.map": "/breweryFinder/static/css/2.413a4a32.chunk.css.map",
+    "static/css/main.6c0ce548.chunk.css.map": "/breweryFinder/static/css/main.6c0ce548.chunk.css.map",
+    "static/js/2.0e14c48a.chunk.js.LICENSE.txt": "/breweryFinder/static/js/2.0e14c48a.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/breweryFinder/static/media/background.75d81479.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8321b07e.js",
+    "static/css/2.413a4a32.chunk.css",
+    "static/js/2.0e14c48a.chunk.js",
+    "static/css/main.6c0ce548.chunk.css",
+    "static/js/main.255bfa58.chunk.js"
+  ]
+}
