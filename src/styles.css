@@ -2,19 +2,10 @@
   font-family: 'The Slug and Lion';
   src: local('MyFont'), url(./fonts/TheSlugAndLion-dLv7.ttf) format('woff');
 }
-html{
-  height:100%;
-}
-
-body{
-  height: 100%;
-}
 
 .App{
   background-color:#444444;
-  position:absolute;
-  left:0;
-  right:0;
+  position:relative;
 }
 
 .mainContainer{
