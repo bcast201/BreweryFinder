@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/BreweryFinder/static/css/main.58f3696c.chunk.css",
-    "main.js": "/BreweryFinder/static/js/main.94d4d709.chunk.js",
-    "main.js.map": "/BreweryFinder/static/js/main.94d4d709.chunk.js.map",
+    "main.css": "/BreweryFinder/static/css/main.c04f96ac.chunk.css",
+    "main.js": "/BreweryFinder/static/js/main.ed221e4b.chunk.js",
+    "main.js.map": "/BreweryFinder/static/js/main.ed221e4b.chunk.js.map",
     "runtime-main.js": "/BreweryFinder/static/js/runtime-main.bd45c55a.js",
     "runtime-main.js.map": "/BreweryFinder/static/js/runtime-main.bd45c55a.js.map",
     "static/css/2.413a4a32.chunk.css": "/BreweryFinder/static/css/2.413a4a32.chunk.css",
     "static/js/2.0e14c48a.chunk.js": "/BreweryFinder/static/js/2.0e14c48a.chunk.js",
     "static/js/2.0e14c48a.chunk.js.map": "/BreweryFinder/static/js/2.0e14c48a.chunk.js.map",
     "index.html": "/BreweryFinder/index.html",
-    "precache-manifest.b1ada990a0c8b27af697c4195faa74be.js": "/BreweryFinder/precache-manifest.b1ada990a0c8b27af697c4195faa74be.js",
+    "precache-manifest.c901d57507f5aa15ed5285a952695314.js": "/BreweryFinder/precache-manifest.c901d57507f5aa15ed5285a952695314.js",
     "service-worker.js": "/BreweryFinder/service-worker.js",
     "static/css/2.413a4a32.chunk.css.map": "/BreweryFinder/static/css/2.413a4a32.chunk.css.map",
-    "static/css/main.58f3696c.chunk.css.map": "/BreweryFinder/static/css/main.58f3696c.chunk.css.map",
+    "static/css/main.c04f96ac.chunk.css.map": "/BreweryFinder/static/css/main.c04f96ac.chunk.css.map",
     "static/js/2.0e14c48a.chunk.js.LICENSE.txt": "/BreweryFinder/static/js/2.0e14c48a.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/BreweryFinder/static/media/background.75d81479.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.bd45c55a.js",
     "static/css/2.413a4a32.chunk.css",
     "static/js/2.0e14c48a.chunk.js",
-    "static/css/main.58f3696c.chunk.css",
-    "static/js/main.94d4d709.chunk.js"
+    "static/css/main.c04f96ac.chunk.css",
+    "static/js/main.ed221e4b.chunk.js"
   ]
 }
