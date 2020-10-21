@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61015a1848a7a529f5a079b6e6098a75",
+    "revision": "9a1039ff75f85b4907df68d72b98fb36",
     "url": "/BreweryFinder/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BreweryFinder/static/css/2.413a4a32.chunk.css"
   },
   {
-    "revision": "ae2ac3b153fc5f673b73",
-    "url": "/BreweryFinder/static/css/main.7354e4ee.chunk.css"
+    "revision": "b33d05e780ed28ff5f35",
+    "url": "/BreweryFinder/static/css/main.58f3696c.chunk.css"
   },
   {
     "revision": "b5d5729c40365b64a1f2",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BreweryFinder/static/js/2.0e14c48a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae2ac3b153fc5f673b73",
-    "url": "/BreweryFinder/static/js/main.469954f5.chunk.js"
+    "revision": "b33d05e780ed28ff5f35",
+    "url": "/BreweryFinder/static/js/main.94d4d709.chunk.js"
   },
   {
     "revision": "a563a995edef145b2cf2",
