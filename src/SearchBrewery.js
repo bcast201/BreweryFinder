@@ -65,7 +65,7 @@ export default class extends React.Component {
         <Container fluid className='mainContainer'>
           <div className='inputFieldContainer'>
             <div className='inputFieldText'>
-                <h1 className='titleText'> Test build 5 Discover Breweries!</h1>
+                <h1 className='titleText'> Test build 6 Discover Breweries!</h1>
                 <Form>
                   <FormGroup>
                     <Input className='w-50 smaller-input centerBox' type='text' name='byCity' id='byCity' placeholder='Search by City' onChange={this.handleChange}
